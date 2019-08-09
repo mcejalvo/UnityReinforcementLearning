@@ -3,7 +3,7 @@ Master's Thesis repository preparation: getting to understand the Unity Machine 
 
 ## Non-AI scenes 
 
-### Eppur-Move 3D
+### Eppur-Muove 3D
 Simple 3D rolling ball set up. 
 
 <div align = "center">
