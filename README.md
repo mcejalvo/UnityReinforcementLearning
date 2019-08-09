@@ -9,3 +9,4 @@ Simple 3D rolling ball set up.
 <div align = "center">
   <img  src = "figures/eppur_move_3D.png" width = "400" >
 </div>
+ 
