@@ -10,3 +10,5 @@ Simple 3D rolling ball set up.
   <img  src = "figures/eppur_move_3D.png" width = "400" >
 </div>
  
+### Random Trajectory Generation
+Prototyping Polar Functions for the random path generation. 
