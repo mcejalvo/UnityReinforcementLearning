@@ -12,3 +12,7 @@ Simple 3D rolling ball set up.
  
 ### Random Trajectory Generation
 Prototyping Polar Functions for the random path generation. 
+
+<div align = "center">
+  <img  src = "figures/path_prototype_1.png" width = "400" >
+</div>
